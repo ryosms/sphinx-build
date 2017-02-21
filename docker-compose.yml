@@ -1,0 +1,7 @@
+---
+sphinx:
+  build: .
+  container_name: sphinx-build
+  volumes:
+    - ./docs:/doc/docs
+  tty: true

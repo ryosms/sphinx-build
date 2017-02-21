@@ -1,0 +1,4 @@
+commonmark
+recommonmark
+sphinx-bootstrap-theme
+sphinx-autobuild
